@@ -1,0 +1,22 @@
+site_name: Claude Code Lab
+repo_url: https://github.com/odewahn/cc-lab-docs
+nav:
+  - Start the Lab: index.md 
+  - Upload Content: upload-content.md
+  - Install A Marketplace Skill: install-a-marketplace-skill.md
+  - Transform Content: transform-content.md
+theme:
+  name: material
+  features:
+    - navigation.expand
+markdown_extensions:
+  - pymdownx.blocks.admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: true

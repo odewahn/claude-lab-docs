@@ -1,0 +1,6 @@
+pyproject.toml
+src/persona_eval.egg-info/PKG-INFO
+src/persona_eval.egg-info/SOURCES.txt
+src/persona_eval.egg-info/dependency_links.txt
+src/persona_eval.egg-info/requires.txt
+src/persona_eval.egg-info/top_level.txt

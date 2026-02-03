@@ -1,0 +1,26 @@
+# MkDocs build output
+site/
+
+# MkDocs cache
+.cache/
+.mkdocs_cache/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# raw video files
+videos/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
