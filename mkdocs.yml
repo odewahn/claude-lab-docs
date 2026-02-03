@@ -9,6 +9,8 @@ theme:
   name: material
   features:
     - navigation.expand
+    - navigation.footer  # Shows previous/next in footer
+    - navigation.top     # Back to top button
 markdown_extensions:
   - pymdownx.blocks.admonition
   - pymdownx.highlight:
